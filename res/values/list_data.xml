@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="list1">
+    	<item>Pranav After Effects</item>
+    	<item>Pranav Bridge</item>
+    	<item>Pranav Dreamweaver</item>
+    	<item>Pranav Edge</item>
+    	<item>Pranav Fireworks</item>
+    	<item>Pranav Flash</item>
+        <item>Pranav Photoshop</item>
+        <item>Pranav Premiere</item>
+        <item>Pranav Reader</item>
+        <item>Pranav Illustrator</item>
+        <item>Pranav After Effects</item>
+    	<item>Pranav Bridge</item>
+    	<item>Pranav Dreamweaver</item>
+    	<item>Pranav Edge</item>
+    	<item>Pranav Fireworks</item>
+    	<item>Pranav Flash</item>
+        <item>Pranav Photoshop</item>
+        <item>Pranav Premiere</item>
+        <item>Pranav Reader</item>
+        <item>Pranav Illustrator</item>
+    
+    </string-array>
+    
+    <string-array name="list2">
+    	<item>Pranav After Effects</item>
+    	<item>Pranav Bridge</item>
+    	<item>Pranav Dreamweaver</item>
+    	<item>Pranav Edge</item>
+    	<item>Pranav Fireworks</item>
+    	<item>Pranav Flash</item>
+        <item>Pranav Photoshop</item>
+        <item>Pranav Premiere</item>
+        <item>Pranav Reader</item>
+        <item>Pranav Illustrator</item>
+    </string-array>
+    
+    <string-array name="list3">
+    	<item>Pranav After Effects</item>
+    	<item>Pranav Bridge</item>
+    	<item>Pranav Dreamweaver</item>
+    	<item>Pranav Edge</item>
+    	<item>Pranav Fireworks</item>
+    	<item>Pranav Flash</item>
+        <item>Pranav Photoshop</item>
+        <item>Pranav Premiere</item>
+        <item>Pranav Reader</item>
+        <item>Pranav Illustrator</item>
+    </string-array>
+    
+    <string-array name="list4">
+    	<item>Pranav After Effects</item>
+    	<item>Pranav Bridge</item>
+    	<item>Pranav Dreamweaver</item>
+    	<item>Pranav Edge</item>
+    	<item>Pranav Fireworks</item>
+    	<item>Pranav Flash</item>
+        <item>Pranav Photoshop</item>
+        <item>Pranav Premiere</item>
+        <item>Pranav Reader</item>
+        <item>Pranav Illustrator</item>
+    </string-array>
+    
+    
+</resources>
